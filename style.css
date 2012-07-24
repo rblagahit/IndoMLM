@@ -1,0 +1,32 @@
+a:link
+{
+	color: #006699;
+}
+a:visited
+{
+	color: #006699;
+}
+a:hover
+{
+	color: #006699;
+	text-decoration: none;
+}
+a:active
+{
+	color: #006699;
+}
+body, table, tr, td
+{
+	font-family: Verdana, Arial;
+	font-size: 10pt;
+	line-height: 1;
+}
+.frame
+{
+	background: #006699 url('framebg.gif');
+	
+}
+.detail
+{
+	background-color: #E6E6E6;
+}
